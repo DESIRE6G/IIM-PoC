@@ -1,0 +1,7 @@
+p4c-docker/p4c-home/p4src
+/out
+.venv
+tmp
+*.pyc
+/sample-videos
+/capture

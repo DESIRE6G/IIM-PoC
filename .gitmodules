@@ -1,0 +1,3 @@
+[submodule "nikss"]
+	path = nikss
+	url = https://github.com/NIKSS-vSwitch/nikss.git
